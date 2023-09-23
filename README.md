@@ -52,8 +52,7 @@ This project is open-source and available under an open-source license (mention 
 
 ### Author
 
-[Your Name]
-
+Gehad Abdelaah 
 ### Acknowledgments
 
 Special thanks to the authors and contributors of the libraries used in this project for their work in making this project possible.
