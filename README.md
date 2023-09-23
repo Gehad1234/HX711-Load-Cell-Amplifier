@@ -1,5 +1,6 @@
 
 ##  Wi-Fi Connected Weight Measurement System
+one of semicolon startup IOT projects (My startup)
 
 ### Description
 
